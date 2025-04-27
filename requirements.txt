@@ -5,3 +5,8 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
+rich
+markdown-it-py
+mdurl
+pygments
+pip>=25.1
