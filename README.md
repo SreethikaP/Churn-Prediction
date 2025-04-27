@@ -29,29 +29,28 @@ Pickle (for model serialization)
 🚀 Installation
 
 1. Clone the repository
-   ```
-     git clone https://github.com/SreethikaP/Churn-Prediction.git
-     cd Churn-Prediction
-   ```
+```
+git clone https://github.com/SreethikaP/Churn-Prediction.git
+cd Churn-Prediction
+```
 2. Create a virtual environment
-   ```
-   python -m venv venv
-   source venv/bin/activate    # On Mac/Linux
-   venv\Scripts\activate       # On Windows
-   ```
+```
+python -m venv venv
+source venv/bin/activate    # On Mac/Linux
+venv\Scripts\activate       # On Windows
+   
+```
 3. Install dependencies
 ```
 pip install -r requirements.txt
 ```
 4. Run the Streamlit app
-   ```
+```
    streamlit run regressionapp.py
 ```
 
 
-## 🌐 Live Demo
-
 Check out the live deployed app here:  
-👉 [Churn Prediction App on Streamlit](https://churn-prediction-8jh2tfstfxmejkqfdrehcq.streamlit.app)
+👉 [Churn Prediction App on Streamlit][https://churn-prediction-8jh2tfstfxmejkqfdrehcq.streamlit.app]
 
 
