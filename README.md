@@ -1,5 +1,4 @@
 # Churn-Prediction
 
-```
-https://churn-prediction-8jh2tfstfxmejkqfdrehcq.streamlit.app
-```
+(StreamlitApp)([https://churn-prediction-8jh2tfstfxmejkqfdrehcq.streamlit.app])
+
