@@ -51,6 +51,6 @@ pip install -r requirements.txt
 
 
 Check out the live deployed app here:  
-👉 [Churn Prediction App on Streamlit][https://churn-prediction-8jh2tfstfxmejkqfdrehcq.streamlit.app]
+👉 [Churn Prediction App on Streamlit](https://churn-prediction-8jh2tfstfxmejkqfdrehcq.streamlit.app)
 
 
